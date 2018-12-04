@@ -144,3 +144,6 @@ HyperApp 还集成了 Let's Encrypt SSL 证书功能，几乎可以为全部应�
 
 **如何在服务器上卸载 HyperApp？**
 HyperApp 不会在您的服务器上安装任何软件，所以不需要卸载
+
+
+https://medium.com/@waylybaye/%E5%A6%82%E4%BD%95%E5%85%8D%E8%B4%B9%E6%89%93%E9%80%A0%E4%B8%80%E4%B8%AA%E5%AE%89%E5%85%A8%E7%A8%B3%E5%AE%9A%E8%B6%85%E9%AB%98%E9%80%9F%E7%9A%84%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E7%8E%AF%E5%A2%83-fee52b7ad2f4
